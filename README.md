@@ -1,6 +1,6 @@
 Hi, I’m @MarynaYarmolenko 👋
 
-I'm a novice Data Analyst.
+I'm a Data Analyst.
 
 I'm open for data analyst jobs.
 
@@ -8,7 +8,7 @@ Skills:
 
 SQL Python
 
-Database
+Database:
 
 PostgreSQL Google BigQuery
 
