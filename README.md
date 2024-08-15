@@ -1,19 +1,12 @@
-Hi, I’m @MarynaYarmolenko 👋
+Hi, I’m @MarynaYarmolenko 👋. I'm a Data Analyst. I'm open for data analyst jobs.
 
-I'm a Data Analyst.
-
-I'm open for data analyst jobs.
-
-Skills:
-
+Skills: 
 SQL Python
 
 Database:
-
 PostgreSQL Google BigQuery
 
 Analytics and Visualization:
-
 Tableau  Power BI  Matplotlib  Seaborn  Amplitude 
 
 Connect with me:
