@@ -4,7 +4,7 @@ I'm a novice Data Analyst.
 I'm open for data analyst jobs.
 
 Skills:
-Languages:
+
 SQL Python
 
 Database
