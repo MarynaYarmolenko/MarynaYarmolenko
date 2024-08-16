@@ -1,36 +1,26 @@
 Hi, I’m Maryna  👋. 
 
+
 I'm Maryna Yarmolenko a Data Analyst.
-
-Skills: 
-SQL Python
-
-Database:
-PostgreSQL Google BigQuery
-
-Analytics and Visualization:
-Tableau  Power BI  Matplotlib  Seaborn  Amplitude 
-
 
 
 - 🛠 Tech Stack
 
 Here are some of the technologies I've worked with:
 
-Programming Languages: Python, SQL
-Databases: Oracle, PostgreSQL, Microsoft SQL Server
-Cloud Platforms: AWS (Amazon Web Services), GCP (Google Cloud Platform), Azure
-Big Data Technologies: Apache Spark, Apache Airflow, Databricks, dbt
-Cloud Data Warehousing: Amazon Redshift, Google Big Query
-DevOps Tools: Docker
-Version Control: Git, Github
-Documentation: Confluence
-Project Management: Jira
-Data Visualization/BI Tools: Microsoft Power BI, [Tableau](https://public.tableau.com/app/profile/maryna.yarmolenko/vizzes)
+
+Programming Languages: SQL, Python
+
+Databases: PostgreSQL, Google BigQuery
+
+Analytics and Visualization:
+
+[Tableau](https://public.tableau.com/app/profile/maryna.yarmolenko/vizzes)
+  Power BI,   Matplotlib,  Seaborn,  Amplitude, Microsoft Power BI 
 
 - 📫 How to reach me:
   
-  [linkedin](www.linkedin.com/in/marynayarmolenko)
+[linkedin](www.linkedin.com/in/marynayarmolenko)
 ![Static Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarynayarmolenko%2F)
 
  yarmolenkomaryna24@gmail.com
