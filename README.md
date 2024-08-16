@@ -21,7 +21,7 @@ Analytics and Visualization:
 - 📫 How to reach me:
   
 [linkedin](https://linkedin.com/in/marynayarmolenko)
-![Static Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue&link=https%3A%2F%2Flinkedin.com%2Fin%2Fmarynayarmolenko)
+![Static Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&logoColor=white&logoSize=auto&labelColor=blue&link=https%3A%2F%2Flinkedin.com%2Fin%2Fmarynayarmolenko)
 
  yarmolenkomaryna24@gmail.com
 
