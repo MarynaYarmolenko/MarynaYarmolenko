@@ -8,7 +8,11 @@ PostgreSQL Google BigQuery
 
 Analytics and Visualization:
 Tableau  Power BI  Matplotlib  Seaborn  Amplitude 
+
+My dashbords:
+
 [Tableau](https://public.tableau.com/app/profile/maryna.yarmolenko/vizzes)
+
 Connect with me:
 [linkedin](www.linkedin.com/in/marynayarmolenko)
 <!---
