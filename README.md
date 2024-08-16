@@ -1,4 +1,6 @@
-Hi, I’m @MarynaYarmolenko 👋. I'm a Data Analyst.
+Hi, I’m @MarynaYarmolenko 👋. 
+
+I'm a Data Analyst.
 
 Skills: 
 SQL Python
@@ -10,7 +12,6 @@ Analytics and Visualization:
 Tableau  Power BI  Matplotlib  Seaborn  Amplitude 
 
 My dashbords:
-
 [Tableau](https://public.tableau.com/app/profile/maryna.yarmolenko/vizzes)
 
 Connect with me:
