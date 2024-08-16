@@ -32,7 +32,7 @@ Analytics and Visualization
 ![Static Badge](https://img.shields.io/badge/Amplitude-3C07FF?style=flat&logo=Amplitude&logoColor=white&logoSize=auto&labelColor=3C07FF)
  
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/maryna.yarmolenko/vizzes)
+[![Static Badge](https://img.shields.io/badge/Tableau%20Dashboard-3eaaaf?style=flat&logo=Tableau%20Dashboard&logoColor=white&logoSize=auto&labelColor=3eaaaf)](https://public.tableau.com/app/profile/maryna.yarmolenko/vizzes)
 
 IDEs
 
