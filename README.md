@@ -30,9 +30,11 @@ Analytics and Visualization
 ![Static Badge](https://img.shields.io/badge/Matplotlib-19E57F?style=flat&logo=Matplotlib&logoColor=white&logoSize=auto&labelColor=19E57F)
 ![Static Badge](https://img.shields.io/badge/Seaborn-6EBE49?style=flat&logo=Seaborn&logoColor=white&logoSize=auto&labelColor=6EBE49)
 ![Static Badge](https://img.shields.io/badge/Amplitude-3C07FF?style=flat&logo=Amplitude&logoColor=white&logoSize=auto&labelColor=3C07FF)
+
+ My Projects
  
 [![Static Badge](https://img.shields.io/badge/Analytics%20in%20Google%20Sheets-34A853?style=flat&logo=Google%20Sheets&logoColor=white&logoSize=auto&labelColor=34A853)](https://docs.google.com/spreadsheets/d/1QCAu3goaJLfUU70YOD6NHBFuUr_49IGmB307al12jTQ/edit?usp=sharing)
-[![Static Badge](https://img.shields.io/badge/My%20Dashboards%20in%20Tableau-3eaaaf?style=flat&logo=Tableau&logoColor=white&logoSize=auto&labelColor=3eaaaf)](https://public.tableau.com/app/profile/maryna.yarmolenko/vizzes)
+[![Static Badge](https://img.shields.io/badge/Dashboards%20in%20Tableau-3eaaaf?style=flat&logo=Tableau&logoColor=white&logoSize=auto&labelColor=3eaaaf)](https://public.tableau.com/app/profile/maryna.yarmolenko/vizzes)
 
 IDEs
 
