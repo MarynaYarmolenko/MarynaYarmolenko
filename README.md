@@ -25,7 +25,30 @@ Analytics and Visualization:
 
  yarmolenkomaryna24@gmail.com
 
+available to become a reviewer or PC member for Machine Learning/Data mining journals or conferences.
+Skills:
+Languages:
+Python  SQL Bash
 
+ML/DL
+Tensorflow  scikit-learn  Fast API  NumPy  Pandas  Plotly SciPy  Keras  PyTorch  LightFM, NLTK, TS Fresh, Shap, LightAutoML, Google OR Tools
+
+Database
+PostgreSQL Clickhouse  SQL Server  AWS Redshift  Google BigQuery
+
+Analytics and Visualization:
+Google Looker Studio  Tableau  Power BI  Matplotlib  Seaborn  Plotly  Folium  Google Analytics  Amplitude 
+
+Tools and Technologies
+Linux  Git 
+
+Jira  Confluence 
+
+IDEs
+Jupyter Notebook  PyCharm  Visual Studio Code 
+
+Connect with me:
+ 
 <!---
 MarynaYarmolenko/MarynaYarmolenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
